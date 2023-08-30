@@ -1,2 +1,2 @@
 # desafioCalculadoraIMC
-projeto consiste em uma calculadora para calculara imc.
+projeto consiste em uma calculadora para calcular imc.
